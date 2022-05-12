@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: #dff5f5;
+}
+.img-div{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+img{
+  border-radius: 10px;
+}
+form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
